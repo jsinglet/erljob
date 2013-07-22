@@ -1,0 +1,12 @@
+run_erl [43120] Fri Jul 20 15:54:35 2012
+Args before exec of shell:
+run_erl [43120] Fri Jul 20 15:54:35 2012
+argv[0] = sh
+run_erl [43120] Fri Jul 20 15:54:35 2012
+argv[1] = -c
+run_erl [43120] Fri Jul 20 15:54:35 2012
+argv[2] = /tmp/
+run_erl [43120] Fri Jul 20 15:54:35 2012
+argv[3] = /tmp/
+run_erl [43120] Fri Jul 20 15:54:35 2012
+argv[4] = main:start()
